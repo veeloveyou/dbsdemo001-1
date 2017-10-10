@@ -32,7 +32,7 @@
       
     /* Create a variable to hold your JSON data */  
       
-        $jsonOutput =  json_encode($items);  
+        $jsonOutput = json_encode($items);  
       
     /* Output the JSON data */  
       
